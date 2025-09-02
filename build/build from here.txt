@@ -1,0 +1,4 @@
+Build with commands:
+
+cmake ..
+make
